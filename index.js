@@ -7,8 +7,8 @@ function myAnimal(d) {
 myAnimal()
 
 function yourAnimal() {
-
-  return animal
+y = "cat"
+  return y
 }
 yourAnimal()
 
