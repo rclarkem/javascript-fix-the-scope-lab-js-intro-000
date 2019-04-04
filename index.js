@@ -1,14 +1,13 @@
-
+ var animal = 'dog'
 
 function myAnimal(d) {
- var animal = 'dog'
+
   return animal
 }
 myAnimal()
 
-function yourAnimal() {
-y = "cat"
-  return y
+function yourAnimal(){
+return animal
 }
 yourAnimal()
 
